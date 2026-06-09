@@ -21,6 +21,3 @@ def explain(question):
         )
 
         return response.choices[0].message.content
-- переведите процент в дробь;
-- выполните вычисления.
-"""
